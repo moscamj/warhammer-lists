@@ -1,0 +1,89 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Hypercrypt Legion
++ TOTAL ARMY POINTS: 1495pts
++
++ ENHANCEMENT: 
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (2x2) - Assassination: 3 Characters - Cull The Horde: 1x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x C'tan Shard of the Void Dragon (300 pts)
+• 1x Canoptek tail blades
+• 1x Spear of the Void Dragon
+• 1x Voltaic storm
+
+1x Imotekh the Stormlord (100 pts)
+• 1x Gauntlet of Fire
+• 1x Staff of the Destroyer
+
+1x Overlord (85 pts)
+• 1x Overlord's blade
+• 1x Tachyon arrow
+
+BATTLELINE
+
+5x Immortals (70 pts)
+• 5x Immortal
+    • 5x Close combat weapon
+    • 5x Gauss blaster
+
+5x Immortals (70 pts)
+• 5x Immortal
+    • 5x Close combat weapon
+    • 5x Gauss blaster
+
+5x Immortals (70 pts)
+• 5x Immortal
+    • 5x Close combat weapon
+    • 5x Gauss blaster
+
+20x Necron Warriors (200 pts)
+• 20x Warrior
+    • 20x Close combat weapon
+    • 15x Gauss flayer
+    • 5x Gauss reaper
+
+OTHER DATASHEETS
+
+3x Canoptek Scarab Swarms (40 pts)
+• 3x Canoptek Scarab Swarm
+    • 3x Feeder mandibles
+
+3x Canoptek Scarab Swarms (40 pts)
+• 3x Canoptek Scarab Swarm
+    • 3x Feeder mandibles
+
+3x Canoptek Scarab Swarms (40 pts)
+• 3x Canoptek Scarab Swarm
+    • 3x Feeder mandibles
+
+1x Lokhust Destroyers (35 pts)
+• 1x Lokhust Destroyer
+    • 1x Close combat weapon
+    • 1x Gauss cannon
+
+1x Lokhust Destroyers (35 pts)
+• 1x Lokhust Destroyer
+    • 1x Close combat weapon
+    • 1x Gauss cannon
+
+1x Lokhust Destroyers (35 pts)
+• 1x Lokhust Destroyer
+    • 1x Close combat weapon
+    • 1x Gauss cannon
+
+3x Canoptek Wraiths (115 pts)
+• 3x Wraith
+    • 3x Vicious claws
+
+3x Canoptek Wraiths (115 pts)
+• 3x Wraith
+    • 3x Vicious claws
+
+1x Canoptek Doomstalker (145 pts)
+• 1x Doomsday blaster
+• 1x Doomstalker limbs
+• 1x Twin gauss flayer
